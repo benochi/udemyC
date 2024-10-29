@@ -2,7 +2,7 @@
 
 (01010010) = 82
 
-# hexadecimal format starts with 0x
+# Hexadecimal format starts with 0x
 
 ie: 0x82
 
@@ -40,3 +40,32 @@ IE 0x7B2C
 1101 = D
 1110 = E
 1111 = F
+
+# How computers store numbers in binary
+
+## decimal numbering system
+
+### also called base 10 numbers(ten possibilities)
+
+0 - 9, 10-19, etc.
+
+## Binary numbering system
+
+### also called base 2
+
+Two states 0 or 1 - like a switch, or transistor(on/off).
+0 = 0
+1 = 1
+10 = 2
+11 = 3
+100 = 4
+101 = 5
+110 = 6
+111 = 7
+
+# binary range
+
+8 bit(2^8) = 256(0-255)
+16 = 65536
+32 = 4294967296
+64 = 18446744073709551616
