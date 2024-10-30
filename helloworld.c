@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main() {
-  printf("Hello \t Dopey World");
+  char one;
+  one = -128;
+  printf("One value is: %d", one);
   return 0;
 }
